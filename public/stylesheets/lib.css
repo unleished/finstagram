@@ -3,9 +3,12 @@
 }
 
 body, input {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Rubik', sans-serif;
   margin: 0;
   color: #244751;
+}
+a.h1 {
+  color: white;
 }
 
 a {
